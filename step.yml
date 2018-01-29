@@ -4,6 +4,6 @@ summary: A step to say hello
 keywords:
   - hello
 properties:
-  - name: name
+  - name: myname 
     type: string
     required: true
